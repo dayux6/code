@@ -1,0 +1,1 @@
+{"name":"Local: Ex","url":"/home/dayux/code/ABC263/Ex.cpp","tests":[{"id":1659961104686,"input":"3 2\n1 1 1\n2 1 -3\n1 -1 2","output":"2.3570226040"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dayux/code/ABC263/Ex.cpp","group":"local","local":true}

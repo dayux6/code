@@ -1,0 +1,13 @@
+10
+0 1 2 1 3 0 0 3 2
+10
+install 0
+install 3
+uninstall 2
+install 7
+install 5
+install 9
+uninstall 9
+install 4
+install 1
+install 9

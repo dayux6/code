@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/dayux/code/ABC264/A.cpp","tests":[{"id":1660436990978,"input":"3 6\n","output":"code\n"},{"id":1660437005171,"input":"4 4\n","output":"o\n"},{"id":1660437011991,"input":"1 7\n","output":"atcoder\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dayux/code/ABC264/A.cpp","group":"local","local":true}

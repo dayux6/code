@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/dayux/code/ABC263/A.cpp","tests":[{"id":1659947223598,"input":"1 2 1 2 1\n","output":"Yes\n"},{"id":1659947234403,"input":"12 12 11 1 2\n","output":"No\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dayux/code/ABC263/A.cpp","group":"local","local":true}

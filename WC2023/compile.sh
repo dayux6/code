@@ -1,0 +1,1 @@
+g++ -o ds ds.cpp grader.cpp -O2 -std=c++14 -lm
